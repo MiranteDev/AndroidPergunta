@@ -5,5 +5,14 @@
     tools:context="vilares.mirante.androidperguntas.Fragment.FragmentHome">
 
 
+    <android.support.v7.widget.RecyclerView
+
+        android:id="@+id/rv_jogos"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+
+    </android.support.v7.widget.RecyclerView>
 
 </FrameLayout>
